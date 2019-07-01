@@ -1,0 +1,15 @@
+D:\CODECOOL\SI\TimerEvents\obj\Debug\TimerEvents.csprojAssemblyReference.cache
+D:\CODECOOL\SI\TimerEvents\obj\Debug\MainWindow.g.cs
+D:\CODECOOL\SI\TimerEvents\obj\Debug\App.g.cs
+D:\CODECOOL\SI\TimerEvents\obj\Debug\TimerEvents_MarkupCompile.cache
+D:\CODECOOL\SI\TimerEvents\obj\Debug\TimerEvents_MarkupCompile.lref
+D:\CODECOOL\SI\TimerEvents\bin\Debug\TimerEvents.exe.config
+D:\CODECOOL\SI\TimerEvents\bin\Debug\TimerEvents.exe
+D:\CODECOOL\SI\TimerEvents\bin\Debug\TimerEvents.pdb
+D:\CODECOOL\SI\TimerEvents\obj\Debug\MainWindow.baml
+D:\CODECOOL\SI\TimerEvents\obj\Debug\TimerEvents.g.resources
+D:\CODECOOL\SI\TimerEvents\obj\Debug\TimerEvents.Properties.Resources.resources
+D:\CODECOOL\SI\TimerEvents\obj\Debug\TimerEvents.csproj.GenerateResource.cache
+D:\CODECOOL\SI\TimerEvents\obj\Debug\TimerEvents.csproj.CoreCompileInputs.cache
+D:\CODECOOL\SI\TimerEvents\obj\Debug\TimerEvents.exe
+D:\CODECOOL\SI\TimerEvents\obj\Debug\TimerEvents.pdb

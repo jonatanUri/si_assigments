@@ -1,0 +1,6 @@
+D:\CODECOOL\SI\SortString\bin\Debug\SortString.exe.config
+D:\CODECOOL\SI\SortString\bin\Debug\SortString.exe
+D:\CODECOOL\SI\SortString\bin\Debug\SortString.pdb
+D:\CODECOOL\SI\SortString\obj\Debug\SortString.csproj.CoreCompileInputs.cache
+D:\CODECOOL\SI\SortString\obj\Debug\SortString.exe
+D:\CODECOOL\SI\SortString\obj\Debug\SortString.pdb

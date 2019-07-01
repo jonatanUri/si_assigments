@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29020.237
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateClass", "CreateClass.csproj", "{E1AFD31F-F75F-417E-8FB9-66DFA7C436E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerEvents", "..\TimerEvents\TimerEvents.csproj", "{34154D18-1867-484E-AC28-87B00A298E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortString", "..\SortString\SortString.csproj", "{7E2027CF-28AD-435C-B59C-0CC089ADFD78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E1AFD31F-F75F-417E-8FB9-66DFA7C436E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1AFD31F-F75F-417E-8FB9-66DFA7C436E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1AFD31F-F75F-417E-8FB9-66DFA7C436E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34154D18-1867-484E-AC28-87B00A298E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34154D18-1867-484E-AC28-87B00A298E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34154D18-1867-484E-AC28-87B00A298E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34154D18-1867-484E-AC28-87B00A298E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E2027CF-28AD-435C-B59C-0CC089ADFD78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2027CF-28AD-435C-B59C-0CC089ADFD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2027CF-28AD-435C-B59C-0CC089ADFD78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2027CF-28AD-435C-B59C-0CC089ADFD78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
