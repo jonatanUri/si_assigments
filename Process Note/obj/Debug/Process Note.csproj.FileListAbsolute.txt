@@ -1,0 +1,15 @@
+D:\CODECOOL\SI\Process Note\obj\Debug\Process Note.csprojAssemblyReference.cache
+D:\CODECOOL\SI\Process Note\obj\Debug\MainWindow.g.cs
+D:\CODECOOL\SI\Process Note\obj\Debug\App.g.cs
+D:\CODECOOL\SI\Process Note\obj\Debug\Process Note_MarkupCompile.cache
+D:\CODECOOL\SI\Process Note\obj\Debug\Process Note_MarkupCompile.lref
+D:\CODECOOL\SI\Process Note\bin\Debug\Process Note.exe.config
+D:\CODECOOL\SI\Process Note\bin\Debug\Process Note.exe
+D:\CODECOOL\SI\Process Note\bin\Debug\Process Note.pdb
+D:\CODECOOL\SI\Process Note\obj\Debug\MainWindow.baml
+D:\CODECOOL\SI\Process Note\obj\Debug\Process Note.g.resources
+D:\CODECOOL\SI\Process Note\obj\Debug\Process_Note.Properties.Resources.resources
+D:\CODECOOL\SI\Process Note\obj\Debug\Process Note.csproj.GenerateResource.cache
+D:\CODECOOL\SI\Process Note\obj\Debug\Process Note.csproj.CoreCompileInputs.cache
+D:\CODECOOL\SI\Process Note\obj\Debug\Process Note.exe
+D:\CODECOOL\SI\Process Note\obj\Debug\Process Note.pdb
